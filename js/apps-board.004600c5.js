@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["apps-board"],{"5da5":function(t,e,l){"use strict";l.r(e);var a=function(){var t=this,e=t._self._c;return e("div",{staticClass:"d-flex flex-grow-1 mt-2"},[e("router-view",{key:t.$route.fullPath})],1)},n=[],r=l("2877"),s={},u=Object(r["a"])(s,a,n,!1,null,null,null);e["default"]=u.exports}}]);
